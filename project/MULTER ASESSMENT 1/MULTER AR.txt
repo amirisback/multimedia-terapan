@@ -1,0 +1,15 @@
+# PROJECT NAME
+"JAMI" - JAVANESE AR MUSIC INTSTRUMENTS 
+
+# PROJECT SUMMARY
+Jami adalah aplikasi AR mobile yang menampilkan berbagai jenis alat musik tradisional jawa
+
+# OBJECTIVE
+Tujuan dari pembuatan JAMI adalah untuk memperkenalkan alat musik jawa kepada pengguna dengan lingkup edukasi dan hiburan.
+
+# FEATURES
+  - +- 14 jenis alat musik jawa beserta suaranya
+  - menampilkan descripsi setiap alat musik
+  - setiap alat musik yang di sentuh akan getar dan mengeluarkan bunyi
+
+
